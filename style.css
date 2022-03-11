@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+.recipies a {
+    background-color: orange;
+    color: white;
+}
+
+.page-title {
+    background-color: darkcyan;
+}
+
+.section {
+    background-color: dodgerblue;
+    color: white;
+}
