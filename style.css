@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    font-family: helvetica, sans-serif;
 }
 
 .recipies a {
@@ -8,10 +9,17 @@ body {
 }
 
 .page-title {
-    background-color: darkcyan;
+    background-color: rgb(47, 68, 107);
+    color: rgb(143, 95, 5);
 }
 
 .section {
     background-color: dodgerblue;
     color: white;
+}
+
+.home-button {
+    background-color: rgb(121, 158, 228);
+    font-weight: 700;
+    font-size: 17px;
 }
